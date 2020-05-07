@@ -1,0 +1,6 @@
+framework module Pods_MMSandBoxHTTP {
+  umbrella header "Pods-MMSandBoxHTTP-umbrella.h"
+
+  export *
+  module * { export * }
+}

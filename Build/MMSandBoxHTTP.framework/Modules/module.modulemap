@@ -1,0 +1,4 @@
+framework module MMSandBoxHTTP {
+  header "MMSandBoxHTTP-Swift.h"
+  requires objc
+}

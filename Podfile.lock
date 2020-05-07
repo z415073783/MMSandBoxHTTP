@@ -1,0 +1,16 @@
+PODS:
+  - MMLibrary (1.0.3.2)
+
+DEPENDENCIES:
+  - MMLibrary (from `../MMLibrary`)
+
+EXTERNAL SOURCES:
+  MMLibrary:
+    :path: "../MMLibrary"
+
+SPEC CHECKSUMS:
+  MMLibrary: 4cba78cce3e1305bbccb53fe9ee42c115fba6732
+
+PODFILE CHECKSUM: 910ff8a5672f3aa145d00b5c1784a763a975bf7e
+
+COCOAPODS: 1.9.1
